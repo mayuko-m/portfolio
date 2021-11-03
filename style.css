@@ -203,7 +203,7 @@ html body main .module {
 
 .nav-item a:hover {
   text-decoration: underline;
-  padding-top: 1rem;
+  padding-top: 0.1rem;
 }
 
 .navbar-brand {
